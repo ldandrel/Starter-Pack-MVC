@@ -1,0 +1,27 @@
+@charset "UTF-8";
+
+// Fonts
+$main-font: 'Open Sans', sans-serif;
+$main-size: 18px;
+$text-size: 14px;
+$slider-size: 12px;
+$italic: italic;
+$extra-bold: 800;
+
+// Colors
+$white: #FFFFFF;
+$grey: #3b4360;
+$black: #000000;
+$first-color: #dc0368;
+$second-color: #6c0287;
+$third-color: #161e38;
+
+// Gradient
+$gradient: linear-gradient(90deg, $first-color 0%, $second-color 99%, $second-color 100%);
+
+// Box shadow
+$box-shadow: 0px 0px 20px 0px rgba(0, 0, 0, 0.12);
+$box-shadow-2: 0px 0px 6px 0px rgba(0, 0, 0, 0.2);
+
+// Transition
+$transition: all 0.3s ease-in-out;
